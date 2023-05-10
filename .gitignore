@@ -29,7 +29,7 @@ out/
 .vscode/
 
 ### Package Files ###
-*.jar
+
 *.war
 *.nar
 *.ear
@@ -41,4 +41,4 @@ out/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-!**artifacts/app-mbank.jar**
+/artifacts/
